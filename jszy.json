@@ -1,0 +1,18 @@
+{
+  "spider": "",
+  "wallpaper": "https://szyyds.cn/api.php",
+  "sites": [
+    {
+      "key": "jszy",
+      "name": "影视 | 极速[直连]",
+      "type": 1,
+      "api": "https://jszyapi.com/api.php/provide/vod/?ac=list",
+      "ext": ""
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": [],
+  "ijk": [],
+  "doh": []
+}
