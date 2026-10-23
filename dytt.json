@@ -1,0 +1,18 @@
+{
+  "spider": "",
+  "wallpaper": "https://szyyds.cn/api.php",
+  "sites": [
+    {
+      "key": "dytt",
+      "name": "天堂┃采集",
+      "type": 1,
+      "api": "http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8",
+      "ext": ""
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": [],
+  "ijk": [],
+  "doh": []
+}
