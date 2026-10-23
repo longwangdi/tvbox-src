@@ -1,0 +1,18 @@
+{
+  "spider": "",
+  "wallpaper": "https://szyyds.cn/api.php",
+  "sites": [
+    {
+      "key": "hhzy",
+      "name": "火狐采集",
+      "type": 1,
+      "api": "https://hhzyapi.com/api.php/provide/vod/",
+      "ext": ""
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": [],
+  "ijk": [],
+  "doh": []
+}
