@@ -1,0 +1,18 @@
+{
+  "spider": "",
+  "wallpaper": "https://szyyds.cn/api.php",
+  "sites": [
+    {
+      "key": "sdzy",
+      "name": "闪电资源(切)",
+      "type": 1,
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "ext": ""
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": [],
+  "ijk": [],
+  "doh": []
+}
