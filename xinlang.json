@@ -1,0 +1,18 @@
+{
+  "spider": "",
+  "wallpaper": "https://szyyds.cn/api.php",
+  "sites": [
+    {
+      "key": "xinlang",
+      "name": "新浪资源(切)",
+      "type": 1,
+      "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "ext": ""
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": [],
+  "ijk": [],
+  "doh": []
+}
